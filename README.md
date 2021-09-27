@@ -1,4 +1,10 @@
-### Hi there 👋
+#### Hi there 👋
+
+I'm Berkay Gündüz, a freshman CS student at Bilkent University.
+
+To reach me you can send a DM via [Instagram](https://instagram.com/berkay.gz).
+
+For more information about me, you can check [my website](https://berkaygunduz.gitlab.io).
 
 <!--
 **berkaygunduzz/berkaygunduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
