@@ -1,8 +1,6 @@
 #### Hi there 👋
 
-I'm Berkay Gündüz, a freshman CS student at Bilkent University.
-
-To reach me you can send a DM via [Instagram](https://instagram.com/berkay.gz).
+I'm Berkay Gündüz, a junior CS student at Bilkent University.
 
 For more information about me, you can check [my website](https://berkaygunduz.gitlab.io).
 
