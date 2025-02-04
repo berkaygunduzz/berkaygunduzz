@@ -1,8 +1,8 @@
 #### Hi there 👋
 
-I'm Berkay Gündüz, a junior CS student at Bilkent University.
+I'm Berkay Gündüz, a senior CS student at Bilkent University.
 
-For more information about me, you can check [my website](https://berkaygunduz.gitlab.io).
+For more information about me, you can check [my website](https://berkaygunduz.github.io).
 
 <!--
 **berkaygunduzz/berkaygunduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
