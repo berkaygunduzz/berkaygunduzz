@@ -2,7 +2,7 @@
 
 I'm Berkay Gündüz, a senior CS student at Bilkent University.
 
-For more information about me, you can check [my website](https://berkaygunduz.github.io).
+For more information about me, you can check my [LinkedIn](https://linkedin.com/in/berkay-gunduz).
 
 <!--
 **berkaygunduzz/berkaygunduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
