@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm Berkay Gündüz, a senior CS student at Bilkent University.
+I'm Berkay Gündüz, a software engineer.
 
 For more information about me, you can check my [LinkedIn](https://linkedin.com/in/berkay-gunduz).
 
